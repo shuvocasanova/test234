@@ -1,0 +1,10 @@
+.course-container{
+    display: flex;
+    height: auto;
+    overflow: auto;
+    border: 2px solid lightgray;
+    border-top: none;
+    margin-right: 25px;  
+}
+
+

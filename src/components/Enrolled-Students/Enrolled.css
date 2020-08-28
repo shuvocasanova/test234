@@ -1,0 +1,20 @@
+.enrolled-container{
+    padding: 10px 10px;
+}
+.enrolled-items{
+    height: auto;
+    margin: 10px 5px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+    background-color: rgb(183, 218, 221);
+    padding: 10px 0px;
+    font-size: 14px;
+    text-align: left;
+    
+}
+.enrolled-items img{
+    height: 125px;
+    width: 180px;
+    border-radius: 10px;
+    margin-right: 10px;
+}

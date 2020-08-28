@@ -1,0 +1,35 @@
+var course = [
+    {id: '01', title: 'Python: Programming for everybody', img: 'https://prod-discovery.edx-cdn.org/media/course/image/911175d0-6724-4276-a058-c7b052773dd1-aba3108f3ab9.png', 
+    duration: '6 weeks', institute: 'University of Michigan', price: 15.99},
+    {id: '02', title: 'Data Science: Machine Learning', img: 'https://prod-discovery.edx-cdn.org/media/course/image/91f52ef3-fa3f-4934-9d19-8d5a32635cd4-d99e27f09d19.jpg', 
+    duration: '8 weeks', institute: 'Harvard University', price: 20.50},
+    {id: '03', title: 'IELTS Academic Test Preparation', img: 'https://prod-discovery.edx-cdn.org/media/course/image/d61d7a1f-3333-4169-a786-92e2bf690c6f-fa8a6909baec.jpg', 
+    duration: '4 weeks', institute: 'The University of Queensland', price: 12.99},
+    {id: '04', title: 'Introduction to Data Analysis Using Excel', img: 'https://prod-discovery.edx-cdn.org/media/course/image/703521a6-b2e3-4b5a-813a-1e70504e13ab-53fd3dd81d85.jpg', 
+    duration: '7 weeks', institute: 'Microsoft Inc.', price: 8.99},
+    {id: '05', title: 'The Architectural Imagination', img: 'https://prod-discovery.edx-cdn.org/media/course/image/8c411679-4105-4de9-8a4c-9c5b3f4a33a6-8e968ff5d2c3.jpg', 
+    duration: '10 weeks', institute: 'Harvard University', price: 25.99},
+    {id: '06', title: 'Fundamentals of Neuroscience', img: 'https://prod-discovery.edx-cdn.org/media/course/image/f8042b37-6a21-4afa-b9e2-6f51dcd694db-11fbc288a095.png', 
+    duration: '12 weeks', institute: 'Stanford University', price: 28.99},
+    {id: '07', title: 'Introduction to Computer Science & Programming', img: 'https://prod-discovery.edx-cdn.org/media/course/image/956319ec-8665-4039-8bc6-32c9a9aea5e9-885268c71902.jpg', 
+    duration: '8 weeks', institute: 'MIT', price: 35.99},
+    {id: '08', title: 'Backyard Meteorology: The Science of Weather', img: 'https://prod-discovery.edx-cdn.org/media/course/image/1bab9c85-a855-4abb-a326-9cbec5781c4c-f04010033293.jpg', 
+    duration: '2 weeks', institute: 'Duke University', price: 10.00},
+    {id: '09', title: 'Google IT Support', img: 'https://prod-discovery.edx-cdn.org/media/course/image/0e575a39-da1e-4e33-bb3b-e96cc6ffc58e-8372a9a276c1.png', 
+    duration: '4 weeks', institute: 'Google Inc.', price: 4.99},
+    {id: '10', title: 'IBM Applied AI', img: 'https://prod-discovery.edx-cdn.org/media/course/image/c9d14131-a515-462b-82e2-6eaec5bc1c17-07a3a07fc0a1.jpg', 
+    duration: '5 weeks', institute: 'IBM Inc.', price: 4.99},
+    {id: '11', title: 'Object Oriented Programming in C++', img: 'https://prod-discovery.edx-cdn.org/media/course/image/72abaeb3-0856-4e89-906a-8b6eef402a1f-153a590f7f3c.jpg', 
+    duration: '6 weeks', institute: 'University of Pennsylvania', price: 15.99},
+    {id: '12', title: 'Learn to Program in Java: Part 1', img: 'https://prod-discovery.edx-cdn.org/media/course/image/2fb3e7fa-005c-4b1b-94e8-5037d12309e9-88ec078eb778.jpg', 
+    duration: '3 weeks', institute: 'Princeton University', price: 12.00},
+    {id: '13', title: 'Master of Business Administration', img: 'https://prod-discovery.edx-cdn.org/media/course/image/a0cb0f4f-21d9-4a0a-8386-d1f8e648b526-0a4bba343d7b.jpg', 
+    duration: '4 weeks', institute: 'University of Illinois', price: 18.99},
+    {id: '14', title: 'Business Foundations', img: 'https://prod-discovery.edx-cdn.org/media/course/image/6774d438-134f-4d20-95a2-ea763f59ff23-985bdf6b8a01.png', 
+    duration: '8 weeks', institute: 'University of Pennsylvania', price: 15.50},
+    {id: '15', title: 'Key Technologies for Business', img: 'https://prod-discovery.edx-cdn.org/media/course/image/ed682cf1-7c11-4417-ac78-e940843cfccc-bb93707c5457.jpg', 
+    duration: '7 weeks', institute: 'IBM Inc.', price: 5.99}
+
+];
+
+export default course;
